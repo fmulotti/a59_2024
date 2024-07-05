@@ -1,0 +1,11 @@
+wheel
+pygame
+jupyter
+jupyterlab
+numpy
+pandas
+matplotlib
+seaborn
+gymnasium
+gymnasium[box2d]
+gymnasium[classic-control]
