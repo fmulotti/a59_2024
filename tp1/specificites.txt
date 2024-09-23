@@ -1,0 +1,8 @@
+MAC
+pip install pyproject-toml
+
+Linux/Debian
+sudo apt-get install swig 
+
+
+ 
