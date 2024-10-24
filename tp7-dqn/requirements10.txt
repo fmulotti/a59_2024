@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pandas
+tensorflow
+gymnasium
+gymnasium[atari]
+gymnasium[accept-rom-licence]
+gymnasium[box2d]
+ipykernel
+pygame
+ale-py
+scikit-image
